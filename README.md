@@ -10,9 +10,7 @@ Navigation Drawer<br/>
 RecyclerView<br/>
 MVVM<br/>
 Solid<br/>
-
-GIT: https://github.com/MichaelKnopacki/Tasks<br/>  
-
+ 
 Udemy<br/>
 Gabriel Ferrari Ceron<br/>
 Curso: https://lnkd.in/g_pE3a4f<br/>

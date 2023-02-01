@@ -1,21 +1,21 @@
 # Tasks
 Projeto desenvolvido durante o curso: https://www.udemy.com/course/desenvolvedor-android-intermediario/
 
-Room  
-Retrofit  
-Shared Preferences
-ViewModel
-ViewHolder
-Navigation Drawer
-RecyclerView
-MVVM
-Solid
+Room<br/> 
+Retrofit<br/>
+Shared Preferences<br/>
+ViewModel<br/>
+ViewHolder<br/>
+Navigation Drawer<br/>
+RecyclerView<br/>
+MVVM<br/>
+Solid<br/>
 
-GIT: https://github.com/MichaelKnopacki/Tasks  
+GIT: https://github.com/MichaelKnopacki/Tasks<br/>  
 
-Udemy
-Gabriel Ferrari Ceron
-Curso: https://lnkd.in/g_pE3a4f
+Udemy<br/>
+Gabriel Ferrari Ceron<br/>
+Curso: https://lnkd.in/g_pE3a4f<br/>
 
 <img width="392" alt="Tasks1" src="https://user-images.githubusercontent.com/77402918/216036630-b7cc150c-aafc-461d-b1c0-4f1a4531f603.png">
 <img width="394" alt="Tasks2" src="https://user-images.githubusercontent.com/77402918/216036636-21cd5fda-7fb0-40f5-98b4-9b2a08189f4d.png">
